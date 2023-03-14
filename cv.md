@@ -2,9 +2,10 @@
 # Denis Yakovitskiy
 ### I work as a chief technologist
 #### Contact information:
-Phone: +79112826842
-E-mail: Akropol108@gmail.com
-Telegram: @DenisYakovitskiy
+---
+**Phone:** +79112826842
+**E-mail:** Akropol108@gmail.com
+**Telegram:** @DenisYakovitskiy
 
 ### Briefly About Myself:
 My work is not related to IT, it's more of a hobby for myself. 
@@ -18,4 +19,18 @@ including making GET requests using Node HTTPS module, and SQL in combination wi
 * Node JS
 * Three JS
 * and the support framework 
+
+### Code example:
+```
+(function(){
+let result, yes = true, no = false
+
+result = yes && yes
+console.log('Are both true?' + result)
+
+result = yes && no
+console.log('Are both still true?' + result)
+})()
+
+```
 
