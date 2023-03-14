@@ -25,7 +25,7 @@ including making GET requests using Node HTTPS module, and SQL in combination wi
 * Three JS
 * and the support framework 
 
-[### Code example:] [https://github.com/DenLee2317/rsschool-cv/edit/gh-pages/cv.md/cv#code-example]
+[### Code example:] [https://github.com/DenLee2317/rsschool-cv/edit/gh-pages/cv.md/code-example]
 ```
 (function(){
 let result, yes = true, no = false
