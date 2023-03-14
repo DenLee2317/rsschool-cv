@@ -8,6 +8,11 @@
 - **Telegram:** @DenisYakovitskiy
 
 ### Briefly About Myself:
+##### Target
+To comprehend new facets and apply them in practice.
+##### Priorities
+To continue learning, yes there is a major problem is the availability of time. In any case, I will learn, try to grasp the basics, because it's so damn interesting.
+##### Experience
 My work is not related to IT, it's more of a hobby for myself. 
 I don't have much experience in creating and maintaining websites. 
 But there is an understanding of Java Script, JQuery, Unix, Git, Node JS, Express JS, 
@@ -20,7 +25,7 @@ including making GET requests using Node HTTPS module, and SQL in combination wi
 * Three JS
 * and the support framework 
 
-### Code example:
+[### Code example:] [https://github.com/DenLee2317/rsschool-cv/edit/gh-pages/cv.md/cv#code-example]
 ```
 (function(){
 let result, yes = true, no = false
