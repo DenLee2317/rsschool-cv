@@ -1,4 +1,4 @@
-## rsschool-сv
+
 # Denis Yakovitskiy
 ### I work as a chief technologist
 #### Contact information:
