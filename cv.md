@@ -2,10 +2,10 @@
 # Denis Yakovitskiy
 ### I work as a chief technologist
 #### Contact information:
----
-**Phone:** +79112826842
-**E-mail:** Akropol108@gmail.com
-**Telegram:** @DenisYakovitskiy
+
+- **Phone:** +79112826842
+- **E-mail:** Akropol108@gmail.com
+- **Telegram:** @DenisYakovitskiy
 
 ### Briefly About Myself:
 My work is not related to IT, it's more of a hobby for myself. 
@@ -33,4 +33,10 @@ console.log('Are both still true?' + result)
 })()
 
 ```
+### Courses:
+I did not take any courses, I took information from open sources and books. 
+Started my journey relatively recently +/- 4 months.
+
+### Languages:
+Russian and English, not much Latin from medicine...) 
 
